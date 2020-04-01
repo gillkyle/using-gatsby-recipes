@@ -14,4 +14,4 @@ Render MDX to the browser as well as a configuration file for code generation.
 
 Clone the site and run it with `gatsby develop`
 
-Check out the page at `/eslint-recipe`
+Check out the page at `/eslint`
