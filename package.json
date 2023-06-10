@@ -19,7 +19,7 @@
     "@mdx-js/react": "^1.5.8",
     "@theme-ui/presets": "^0.3.0",
     "eslint-config-react-app": "^5.2.1",
-    "gatsby": "^2.20.10-recipes.40",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-mdx": "^1.1.4",
     "gatsby-plugin-theme-ui": "^0.3.0",
     "jest": "^25.2.4",
